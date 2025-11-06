@@ -1,0 +1,164 @@
+.parent {
+    display: flex;
+    align-items: stretch;
+     padding-left: 420px;
+    border-radius: 5px;
+    
+  }
+.child-1{   
+    border: solid;
+    border-right: 0.5px;
+    width: 500px;
+    font-size: 25px;
+}
+.contact-item{
+    display: flex;
+    align-items: center;
+}
+.contact-item h2{
+    margin-left:15px ;
+}
+.contact-item p{
+    margin-left: 10px;
+}
+.aa{
+    display: flex;
+    align-items: center;
+}
+.aa h2{
+    margin-left: 15px;
+}
+.details{
+    
+    background-color:lightblue;
+    
+}
+.details-item{
+    padding-left: 10px;
+}
+.details h1{
+    margin-top: 0%;
+    
+
+}
+.details p{
+    padding-bottom: 10px;
+    margin-bottom: 0%;
+}
+.details img{
+    padding-left: 50;
+    border-radius: 50%;
+}
+.child-1 h1{
+    text-align: center;
+    background-color: cadetblue;
+    font-size: 45px;
+}
+
+.contact{
+    border-top: solid;
+    text-align: left;
+    padding-left: 10px;
+    background-image: url(./vintage-pink-telephone-composition.jpg);
+    background-size: 500px 420px;
+}
+.education{
+  border-top: solid;
+  padding-left: 10px;
+  border-bottom: solid;
+  padding-left: 10px;
+  background-image:url(./joanna-kosinska-1_CMoFsPfso-unsplash.jpg);
+  background-size: cover;
+  color: black;
+  font-weight: bold;
+  
+}
+.hobby{
+    padding-left: 10px;
+    background-image: url(./assortment-sports-supplies.jpg);
+    background-size: 500px 500px;
+    margin: 0px;
+    height: 430px;
+}
+.hobby-item{
+    display: flex;
+    align-items: center;
+    margin: 0%;
+    list-style: disc;
+    margin: 10px;
+    padding: 0%;
+}
+.hobby-item-1{
+    display: flex;
+    align-items: center;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.hobby-item-1 h2{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.hobby-item h5{
+    margin: 1px;
+}
+.child-2{
+    border: solid;
+    width: 500px;
+    font-size: 20px;   
+}
+.child-2 h1{
+    background-color: cadetblue;  
+    text-align: center; 
+    font-size: 45px;
+}
+.skill {
+    background-image: url(https://static.startuptalky.com/2020/01/Coding-technical-skills-entreprenuers-startuptalky-1.jpg);
+    background-size: 510px 350px;
+    border-bottom: solid;
+    
+}
+.skill-item{
+    display: flex;
+    align-items: center;
+    color: white;
+    padding-left: 10px;
+}
+.skill h1{
+    margin-top: 0%;
+    
+}
+.skill h2{
+    color: white;
+}
+.skill p{
+    margin-left: 10px;
+}
+.certfication {
+    height: 1357.9px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    background-color: lightblue;
+    background-size: 500px 1357.9px;
+    color: black;
+}
+.certfication h2{
+    margin-top: 0%;
+}
+  
+.certfication ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}  
+.certfication li {
+    margin-bottom: 15px;
+}
+  
+.certfication img {
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+  
+   
+
